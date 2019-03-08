@@ -4,6 +4,7 @@
     "jest-circus": "24.0.0"
   },
   "renovate": {
-    "extends": ["config:base"]
+    "extends": ["config:base"],
+    "prHourlyLimit": 0
   }
 }
