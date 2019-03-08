@@ -3,5 +3,7 @@
     "jest": "24.0.0",
     "jest-circus": "24.0.0"
   },
-  "renovate": {}
+  "renovate": {
+    "extends": ["config:base"]
+  }
 }
