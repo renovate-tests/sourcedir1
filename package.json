@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "jest": "24.0.0"
+    "jest": "24.0.0",
+    "jest-circus": "24.0.0"
   },
   "renovate": {}
 }
